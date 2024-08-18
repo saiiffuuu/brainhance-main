@@ -1,9 +1,3 @@
-<div align="center">
-  <br />
-      <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
-      
-    </a>
-  <br />
 
   <div>
     <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
@@ -27,7 +21,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
+Brainhance - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
 
 
 
